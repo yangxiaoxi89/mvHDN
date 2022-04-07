@@ -1,2 +1,2 @@
 # mvHDN
-Human disease association network
+A method for human disease association network based on multi-view fusion was proposed. We applied this approach to three disease similarity matrices for 223 diseases to create a disease network connected at multiple biological level. Moreover, a disease classification that considered multiple molecular levels was provided. The mvHDN described the relationship between diseases based on multiple molecular levels, thus breaking through the limitation of the disease classification system based on tissues and organs. This method extends the existing disease classification and provides a new perspective for understanding diseases associations.
