@@ -1,0 +1,224 @@
+Name	DiseaseID	SlimMappings	Truelabel	Cluster_group
+abnormalities, multiple	MESH:D000015	Congenital abnormality	12	1
+adenocarcinoma	MESH:D000230	Cancer	2	16
+adrenal gland diseases	MESH:D000307	Endocrine system disease	15	23
+albuminuria	MESH:D000419	Signs and symptoms|Urogenital disease (female)|Urogenital disease (male)	9	19
+alzheimer disease	MESH:D000544	Mental disorder|Nervous system disease	6	18
+amino acid metabolism, inborn errors	MESH:D000592	Genetic disease (inborn)|Metabolic disease	12	1
+amyotrophic lateral sclerosis	MESH:D000690	Metabolic disease|Nervous system disease	6	11
+anemia	MESH:D000740	Blood disease	11	24
+anemia, aplastic	MESH:D000741	Blood disease	11	24
+anemia, hemolytic	MESH:D000743	Blood disease	11	24
+aneurysm	MESH:D000783	Cardiovascular disease	10	20
+ankylosis	MESH:D000844	Musculoskeletal disease	3	2
+arrhythmias, cardiac	MESH:D001145	Cardiovascular disease|Pathology (process)	17	3
+arteriosclerosis	MESH:D001161	Cardiovascular disease	10	8
+arthritis	MESH:D001168	Musculoskeletal disease	3	17
+arthritis, rheumatoid	MESH:D001172	Connective tissue disease|Immune system disease|Musculoskeletal disease	3	17
+asthma	MESH:D001249	Immune system disease|Respiratory tract disease	5	5
+ataxia	MESH:D001259	Nervous system disease|Signs and symptoms	6	4
+autoimmune diseases	MESH:D001327	Immune system disease	16	24
+autoimmune diseases of the nervous system	MESH:D020274	Immune system disease|Nervous system disease	6	22
+bacterial infections	MESH:D001424	Bacterial infection or mycosis	1	20
+basal ganglia diseases	MESH:D001480	Nervous system disease	6	22
+behcet syndrome	MESH:D001528	Cardiovascular disease|Eye disease|Genetic disease (inborn)|Mouth disease|Skin disease	13	20
+blood coagulation disorders	MESH:D001778	Blood disease	11	24
+blood platelet disorders	MESH:D001791	Blood disease	11	24
+blood protein disorders	MESH:D001796	Blood disease	11	9
+bone diseases	MESH:D001847	Musculoskeletal disease	3	17
+bone diseases, developmental	MESH:D001848	Musculoskeletal disease	3	1
+bone diseases, metabolic	MESH:D001851	Musculoskeletal disease	3	2
+bone marrow diseases	MESH:D001855	Blood disease	11	23
+brain diseases	MESH:D001927	Nervous system disease	6	6
+brain diseases, metabolic	MESH:D001928	Metabolic disease|Nervous system disease	6	6
+brain diseases, metabolic, inborn	MESH:D020739	Genetic disease (inborn)|Metabolic disease|Nervous system disease	6	6
+breast diseases	MESH:D001941	Skin disease	13	17
+breast neoplasms	MESH:D001943	Cancer|Skin disease	2	23
+bronchial diseases	MESH:D001982	Respiratory tract disease	5	5
+carbohydrate metabolism, inborn errors	MESH:D002239	Genetic disease (inborn)|Metabolic disease	12	6
+carcinoma	MESH:D002277	Cancer	2	16
+carcinoma, renal cell	MESH:D002292	Cancer|Urogenital disease (female)|Urogenital disease (male)	2	16
+cardiomegaly	MESH:D006332	Cardiovascular disease|Pathology (anatomical condition)	10	15
+cardiomyopathies	MESH:D009202	Cardiovascular disease	10	15
+cardiomyopathy, dilated	MESH:D002311	Cardiovascular disease	10	15
+cardiomyopathy, hypertrophic	MESH:D002312	Cardiovascular disease	10	15
+cardiomyopathy, hypertrophic, familial	MESH:D024741	Cardiovascular disease|Genetic disease (inborn)	10	15
+cardiovascular abnormalities	MESH:D018376	Cardiovascular disease|Congenital abnormality	10	15
+carotid artery diseases	MESH:D002340	Cardiovascular disease|Nervous system disease	6	21
+celiac disease	MESH:D002446	Digestive system disease|Metabolic disease	4	7
+central nervous system diseases	MESH:D002493	Nervous system disease	6	6
+cerebellar ataxia	MESH:D002524	Nervous system disease|Signs and symptoms	6	4
+cerebellar diseases	MESH:D002526	Nervous system disease	6	4
+cerebrovascular disorders	MESH:D002561	Cardiovascular disease|Nervous system disease	6	6
+charcot-marie-tooth disease	MESH:D002607	Congenital abnormality|Genetic disease (inborn)|Nervous system disease	6	11
+cholestasis	MESH:D002779	Digestive system disease	4	10
+cholestasis, intrahepatic	MESH:D002780	Digestive system disease	4	10
+chromosome disorders	MESH:D025063	Congenital abnormality|Genetic disease (inborn)	12	1
+colitis	MESH:D003092	Digestive system disease	4	7
+colitis, ulcerative	MESH:D003093	Digestive system disease	4	7
+collagen diseases	MESH:D003095	Connective tissue disease	13	20
+colorectal neoplasms	MESH:D015179	Cancer|Digestive system disease	4	7
+congenital abnormalities	MESH:D000013	Congenital abnormality	12	1
+congenital disorders of glycosylation	MESH:D018981	Genetic disease (inborn)|Metabolic disease	12	6
+connective tissue diseases	MESH:D003240	Connective tissue disease	13	17
+coronary artery disease	MESH:D003324	Cardiovascular disease	10	8
+coronary disease	MESH:D003327	Cardiovascular disease	10	8
+cranial nerve diseases	MESH:D003389	Nervous system disease	6	21
+craniofacial abnormalities	MESH:D019465	Congenital abnormality|Musculoskeletal disease	12	1
+crohn disease	MESH:D003424	Digestive system disease	4	7
+death	MESH:D003643	Pathology (process)	17	3
+death, sudden	MESH:D003645	Pathology (process)	17	3
+death, sudden, cardiac	MESH:D016757	Cardiovascular disease|Pathology (process)	17	3
+dementia	MESH:D003704	Mental disorder|Nervous system disease	6	18
+demyelinating diseases	MESH:D003711	Nervous system disease	6	22
+diabetes mellitus	MESH:D003920	Endocrine system disease|Metabolic disease	14	14
+diabetes mellitus, type 1	MESH:D003922	Endocrine system disease|Immune system disease|Metabolic disease	14	19
+diabetes mellitus, type 2	MESH:D003924	Endocrine system disease|Metabolic disease	14	14
+digestive system neoplasms	MESH:D004067	Cancer|Digestive system disease	2	16
+disorders of sex development	MESH:D012734	Congenital abnormality|Endocrine system disease|Urogenital disease (female)|Urogenital disease (male)	8	23
+dna repair-deficiency disorders	MESH:D049914	Metabolic disease	14	16
+dwarfism	MESH:D004392	Endocrine system disease|Genetic disease (inborn)|Musculoskeletal disease	12	1
+dyskinesias	MESH:D020820	Nervous system disease|Signs and symptoms	6	4
+dysostoses	MESH:D004413	Musculoskeletal disease	3	1
+dyssomnias	MESH:D020920	Mental disorder|Nervous system disease	6	13
+ectodermal dysplasia	MESH:D004476	Congenital abnormality|Genetic disease (inborn)|Skin disease	12	1
+epilepsy	MESH:D004827	Nervous system disease	6	6
+exophthalmos	MESH:D005094	Eye disease	7	21
+eye diseases, hereditary	MESH:D015785	Eye disease|Genetic disease (inborn)	7	12
+female urogenital diseases	MESH:D052776	Urogenital disease (female)	9	19
+gastrointestinal diseases	MESH:D005767	Digestive system disease	4	7
+gastrointestinal neoplasms	MESH:D005770	Cancer|Digestive system disease	2	16
+genetic diseases, inborn	MESH:D030342	Genetic disease (inborn)	12	1
+genetic diseases, x-linked	MESH:D040181	Genetic disease (inborn)	12	6
+genital diseases, male	MESH:D005832	Urogenital disease (male)	8	23
+genital neoplasms, female	MESH:D005833	Cancer|Urogenital disease (female)	9	23
+glioma	MESH:D005910	Cancer	2	16
+glomerulonephritis	MESH:D005921	Urogenital disease (female)|Urogenital disease (male)	9	19
+goiter	MESH:D006042	Endocrine system disease	15	21
+gout	MESH:D006073	Genetic disease (inborn)|Metabolic disease|Musculoskeletal disease	14	14
+graves disease	MESH:D006111	Endocrine system disease|Eye disease|Immune system disease	15	21
+hair diseases	MESH:D006201	Skin disease	13	1
+head and neck neoplasms	MESH:D006258	Cancer	2	16
+heart arrest	MESH:D006323	Cardiovascular disease	10	3
+heart defects, congenital	MESH:D006330	Cardiovascular disease|Congenital abnormality	10	15
+heart diseases	MESH:D006331	Cardiovascular disease	10	15
+hematologic diseases	MESH:D006402	Blood disease	11	24
+hemorrhagic disorders	MESH:D006474	Blood disease	11	24
+hereditary sensory and motor neuropathy	MESH:D015417	Congenital abnormality|Genetic disease (inborn)|Nervous system disease	6	11
+heredodegenerative disorders, nervous system	MESH:D020271	Genetic disease (inborn)|Nervous system disease	6	4
+hyperinsulinism	MESH:D006946	Metabolic disease	14	14
+hypersensitivity	MESH:D006967	Immune system disease	16	5
+hypersensitivity, immediate	MESH:D006969	Immune system disease	16	5
+hyperthyroidism	MESH:D006980	Endocrine system disease	15	21
+hypopigmentation	MESH:D017496	Skin disease	13	1
+hypothalamic diseases	MESH:D007027	Nervous system disease	6	14
+hypotrichosis	MESH:D007039	Skin disease	13	1
+immunologic deficiency syndromes	MESH:D007153	Immune system disease	16	9
+inflammatory bowel diseases	MESH:D015212	Digestive system disease	4	7
+insulin resistance	MESH:D007333	Metabolic disease	14	14
+intestinal diseases	MESH:D007410	Digestive system disease	4	7
+intestinal neoplasms	MESH:D007414	Cancer|Digestive system disease	4	7
+joint diseases	MESH:D007592	Musculoskeletal disease	3	17
+keratosis	MESH:D007642	Skin disease	13	10
+kidney diseases	MESH:D007674	Urogenital disease (female)|Urogenital disease (male)	9	19
+kidney neoplasms	MESH:D007680	Cancer|Urogenital disease (female)|Urogenital disease (male)	2	16
+leprosy	MESH:D007918	Bacterial infection or mycosis	1	20
+leukemia	MESH:D007938	Cancer	2	9
+leukemia, lymphocytic, chronic, b-cell	MESH:D015451	Cancer|Immune system disease|Lymphatic disease	2	9
+leukemia, lymphoid	MESH:D007945	Cancer|Immune system disease|Lymphatic disease	2	9
+leukemia, myeloid	MESH:D007951	Cancer	2	9
+leukemia, myeloid, acute	MESH:D015470	Cancer	2	9
+limb deformities, congenital	MESH:D017880	Congenital abnormality|Musculoskeletal disease	12	1
+lipid metabolism disorders	MESH:D052439	Metabolic disease	14	6
+lipid metabolism, inborn errors	MESH:D008052	Genetic disease (inborn)|Metabolic disease	12	6
+lipidoses	MESH:D008064	Genetic disease (inborn)|Metabolic disease	12	6
+liver cirrhosis	MESH:D008103	Digestive system disease	4	10
+liver cirrhosis, biliary	MESH:D008105	Digestive system disease	4	10
+liver diseases	MESH:D008107	Digestive system disease	4	10
+lung diseases	MESH:D008171	Respiratory tract disease	5	5
+lung diseases, obstructive	MESH:D008173	Respiratory tract disease	5	5
+lung neoplasms	MESH:D008175	Cancer|Respiratory tract disease	5	5
+lupus erythematosus, systemic	MESH:D008180	Connective tissue disease|Immune system disease	13	19
+lymphatic diseases	MESH:D008206	Lymphatic disease	11	9
+lymphoma	MESH:D008223	Cancer|Immune system disease|Lymphatic disease	2	9
+lymphoma, non-hodgkin	MESH:D008228	Cancer|Immune system disease|Lymphatic disease	2	9
+lymphoproliferative disorders	MESH:D008232	Immune system disease|Lymphatic disease	11	9
+lysosomal storage diseases	MESH:D016464	Genetic disease (inborn)|Metabolic disease	12	6
+macular degeneration	MESH:D008268	Eye disease	7	12
+malabsorption syndromes	MESH:D008286	Digestive system disease|Metabolic disease	4	7
+malformations of cortical development	MESH:D054220	Congenital abnormality|Nervous system disease	6	6
+mental retardation, x-linked	MESH:D038901	Genetic disease (inborn)|Nervous system disease	6	6
+metabolic diseases	MESH:D008659	Metabolic disease	14	14
+metabolic syndrome x	MESH:D024821	Metabolic disease	14	14
+metabolism, inborn errors	MESH:D008661	Genetic disease (inborn)|Metabolic disease	12	6
+metal metabolism, inborn errors	MESH:D008664	Genetic disease (inborn)|Metabolic disease	12	6
+mitochondrial diseases	MESH:D028361	Metabolic disease	14	6
+motor neuron disease	MESH:D016472	Nervous system disease	6	11
+movement disorders	MESH:D009069	Nervous system disease	6	22
+multiple sclerosis	MESH:D009103	Immune system disease|Nervous system disease	6	22
+muscular diseases	MESH:D009135	Musculoskeletal disease|Nervous system disease	6	11
+muscular dystrophies	MESH:D009136	Genetic disease (inborn)|Musculoskeletal disease|Nervous system disease	6	11
+musculoskeletal abnormalities	MESH:D009139	Congenital abnormality|Musculoskeletal disease	12	1
+mycobacterium infections	MESH:D009164	Bacterial infection or mycosis	1	20
+myeloproliferative disorders	MESH:D009196	Blood disease	11	6
+myocardial infarction	MESH:D009203	Cardiovascular disease	10	8
+myocardial ischemia	MESH:D017202	Cardiovascular disease	10	8
+neoplasms, germ cell and embryonal	MESH:D009373	Cancer	2	16
+neoplastic syndromes, hereditary	MESH:D009386	Cancer|Genetic disease (inborn)	2	16
+nephritis	MESH:D009393	Urogenital disease (female)|Urogenital disease (male)	9	19
+nervous system malformations	MESH:D009421	Congenital abnormality|Nervous system disease	6	11
+neurodegenerative diseases	MESH:D019636	Nervous system disease	6	18
+neuroectodermal tumors	MESH:D017599	Cancer	2	16
+neuroendocrine tumors	MESH:D018358	Cancer	2	16
+neurologic manifestations	MESH:D009461	Nervous system disease|Signs and symptoms	6	6
+neuromuscular diseases	MESH:D009468	Nervous system disease	6	11
+obesity	MESH:D009765	Nutrition disorder|Signs and symptoms	14	14
+ocular motility disorders	MESH:D015835	Eye disease|Nervous system disease	6	21
+osteochondrodysplasias	MESH:D010009	Genetic disease (inborn)|Musculoskeletal disease	12	1
+osteoporosis	MESH:D010024	Musculoskeletal disease	3	2
+ovarian diseases	MESH:D010049	Endocrine system disease|Urogenital disease (female)	9	23
+ovarian neoplasms	MESH:D010051	Cancer|Endocrine system disease|Urogenital disease (female)	9	23
+pancreatic diseases	MESH:D010182	Digestive system disease	4	10
+parkinson disease	MESH:D010300	Nervous system disease	6	22
+parkinsonian disorders	MESH:D020734	Nervous system disease	6	22
+peripheral nervous system diseases	MESH:D010523	Nervous system disease	6	11
+peroxisomal disorders	MESH:D018901	Genetic disease (inborn)|Metabolic disease	12	6
+pigmentation disorders	MESH:D010859	Skin disease	13	1
+polyneuropathies	MESH:D011115	Nervous system disease	6	11
+precursor cell lymphoblastic leukemia-lymphoma	MESH:D054198	Cancer|Immune system disease|Lymphatic disease	2	9
+prostatic diseases	MESH:D011469	Urogenital disease (male)	8	23
+prostatic neoplasms	MESH:D011471	Cancer|Urogenital disease (male)	2	23
+proteinuria	MESH:D011507	Signs and symptoms|Urogenital disease (female)|Urogenital disease (male)	9	19
+psoriasis	MESH:D011565	Skin disease	13	10
+purine-pyrimidine metabolism, inborn errors	MESH:D011686	Genetic disease (inborn)|Metabolic disease	14	14
+renal tubular transport, inborn errors	MESH:D015499	Genetic disease (inborn)|Metabolic disease|Urogenital disease (female)|Urogenital disease (male)	9	19
+respiratory hypersensitivity	MESH:D012130	Immune system disease|Respiratory tract disease	5	5
+retinal degeneration	MESH:D012162	Eye disease	7	12
+retinal diseases	MESH:D012164	Eye disease	7	12
+retinal dystrophies	MESH:D058499	Eye disease	7	12
+retinitis pigmentosa	MESH:D012174	Eye disease|Genetic disease (inborn)	7	12
+rheumatic diseases	MESH:D012216	Connective tissue disease|Musculoskeletal disease	3	17
+sarcoma	MESH:D012509	Cancer	2	16
+skin abnormalities	MESH:D012868	Congenital abnormality|Skin disease	12	1
+skin diseases	MESH:D012871	Skin disease	13	10
+skin diseases, genetic	MESH:D012873	Genetic disease (inborn)|Skin disease	12	1
+skin diseases, vascular	MESH:D017445	Skin disease	13	20
+sleep disorders	MESH:D012893	Mental disorder|Nervous system disease|Signs and symptoms	6	13
+spastic paraplegia, hereditary	MESH:D015419	Congenital abnormality|Genetic disease (inborn)|Nervous system disease	6	11
+spinal cord diseases	MESH:D013118	Nervous system disease	6	11
+spinal diseases	MESH:D013122	Musculoskeletal disease	3	2
+spinocerebellar ataxias	MESH:D020754	Genetic disease (inborn)|Nervous system disease	6	4
+spinocerebellar degenerations	MESH:D013132	Genetic disease (inborn)|Nervous system disease	6	4
+spondylarthropathies	MESH:D025242	Musculoskeletal disease	3	2
+spondylitis, ankylosing	MESH:D013167	Musculoskeletal disease	3	2
+tauopathies	MESH:D024801	Nervous system disease	6	18
+thyroid diseases	MESH:D013959	Endocrine system disease	15	21
+urogenital abnormalities	MESH:D014564	Congenital abnormality|Urogenital disease (female)|Urogenital disease (male)	8	23
+urogenital neoplasms	MESH:D014565	Cancer|Urogenital disease (female)|Urogenital disease (male)	2	23
+urologic diseases	MESH:D014570	Urogenital disease (female)|Urogenital disease (male)	9	19
+urologic neoplasms	MESH:D014571	Cancer|Urogenital disease (female)|Urogenital disease (male)	2	16
+uveitis	MESH:D014605	Eye disease	7	20
+varicose veins	MESH:D014648	Cardiovascular disease	10	23
+vascular diseases	MESH:D014652	Cardiovascular disease	10	8
+vasculitis	MESH:D014657	Cardiovascular disease	10	20
+vision disorders	MESH:D014786	Eye disease|Nervous system disease|Signs and symptoms	7	12
