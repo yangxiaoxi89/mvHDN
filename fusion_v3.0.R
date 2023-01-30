@@ -76,7 +76,7 @@ temp=temp/max(temp)+diag(nrow(order_fusion_result))
 #### heatmap ####
 Mesh_disease=read.xlsx(file = "MeshDiseaseName_total223.xlsx",sheetIndex = 1)
 
-###2017年6月2日加，为了将热图上的Meshcode颜色条调整得更好看###
+##
 disease_slim_temp=as.matrix(read.xlsx(file = "Mesh_disease_slim.xlsx",sheetIndex = 1))
 disease_slim=NULL
 for (i in 1:nrow(disease_slim_temp)) 
@@ -94,7 +94,7 @@ for (i in 1:24)
     cluster_disease_temp=c(cluster_disease_temp,disease_slim[[num[j]]])
   }
   cluster_sta=table(cluster_disease_temp)
-  max_nam=names(cluster_sta)[which(cluster_sta==max(cluster_sta))] #最多的那个mesh ID作为max_nam
+  max_nam=names(cluster_sta)[which(cluster_sta==max(cluster_sta))] 
   for (j in 1:length(num))
   {
     if(length(disease_slim[[num[j]]])>1)
@@ -270,9 +270,9 @@ x3=as.numeric(edge_nc2014[,3])
 
 ###### Statistic the relationship between disease tree numbers and clusters ######
 save(edge_fusion,edge_nc2014,edge_sci2015,edge_sci2015GO,file = "edge.RData")
-######以下为原始代码######
+####
 write.table(node,file = "node.txt",quote = F,sep = "\t",row.names = F)
-write.table(edge_fusion[which(x>=quantile(x,probs = 0.8)),],file = "edge_fusion.txt",quote = F,sep = "\t",row.names = F,col.names = F) #quantile百分位数，20%
+write.table(edge_fusion[which(x>=quantile(x,probs = 0.8)),],file = "edge_fusion.txt",quote = F,sep = "\t",row.names = F,col.names = F) 
 write.table(edge_sci2015[which(x1>=quantile(x1,probs = 0.8)),],file = "edge_sci2015.txt",quote = F,sep = "\t",row.names = F,col.names = F)
 write.table(edge_sci2015GO[which(x2>=quantile(x2,probs = 0.8)),],file = "edge_sci2015GO.txt",quote = F,sep = "\t",row.names = F,col.names = F)
 write.table(edge_nc2014[which(x3>=quantile(x3,probs = 0.8)),],file = "edge_nc2014.txt",quote = F,sep = "\t",row.names = F,col.names = F)

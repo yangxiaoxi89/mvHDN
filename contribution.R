@@ -59,7 +59,7 @@ contribution_heatmap_temp = melt(contribution_heatmap)
 colnames(contribution_heatmap_temp)=c("contribution","cluster","value")
 # 
 contribution_heatmap_temp1 = contribution_heatmap_temp[which(contribution_heatmap_temp[,3]>="0.0001"),]
-# »­Í¼
+# 
 p = ggplot(data = contribution_heatmap_temp1) + 
   geom_point(mapping = aes(x = cluster, y = value, color = contribution, size = value, shape = contribution), alpha = 0.8) +
   scale_discrete_manual(values = c("#0ABDA0","#C05640","#1D65A6","#cc0000","#DDAA00","#990099","#9966FF"),aesthetics = 'color') +
